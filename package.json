@@ -1,0 +1,19 @@
+{
+  "name": "javascript_calculator",
+  "version": "1.0.0",
+  "description": "A stylish little calculator that I built for fun while following a tutorial, using basic JavaScript and CSS.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaDKuss/JavaScript_Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaDKuss/JavaScript_Calculator/issues"
+  },
+  "homepage": "https://github.com/JoshuaDKuss/JavaScript_Calculator#readme"
+}
